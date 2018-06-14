@@ -1,5 +1,11 @@
 # report_2_sem
 
+## 1 Корзина
+### [Репозиторий](https://github.com/nvkuznetsova/cart)<br>
+### [Git Pages example](https://nvkuznetsova.github.io/cart/)
+-------
+## Лабораторные работы
+
 ### 1 Проект с оператором bind
 #### [Код](https://github.com/nvkuznetsova/report_2_sem/tree/master/1)
 -----
