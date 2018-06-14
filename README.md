@@ -2,7 +2,7 @@
 
 ### 1 Проект с оператором bind
 [Код](https://github.com/nvkuznetsova/report_2_sem/tree/master/1)
-
+-----
 ### 2  Последовательное выполнение асинхронных заданий в цикле
 [Задание](https://codepen.io/nvkuznetsova/pen/MVVERy?editors=0011)
 
@@ -31,7 +31,7 @@
 [Part 1](https://github.com/nvkuznetsova/report_2_sem/tree/master/8%2C9/part1)<br>
 #### Результат<br>
 ![screenshot of sample](https://github.com/nvkuznetsova/report_2_sem/blob/master/8%2C9/part1/p1.png)
--------
+
 [Part 2](https://github.com/nvkuznetsova/report_2_sem/tree/master/8%2C9/part2)<br>
 #### Результат<br>
 ![screenshot of sample](https://github.com/nvkuznetsova/report_2_sem/blob/master/8%2C9/part2/p2.png)
