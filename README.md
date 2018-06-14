@@ -39,7 +39,9 @@
 <br>
 #### [Part 2](https://github.com/nvkuznetsova/report_2_sem/tree/master/8%2C9/part2)<br>
 #### Результат<br>
-![screenshot of sample](https://github.com/nvkuznetsova/report_2_sem/blob/master/8%2C9/part2/p2.png)
+![screenshot of sample](https://github.com/nvkuznetsova/report_2_sem/blob/master/8%2C9/part2/p2.png)<br>
+#### [Part 3](https://codepen.io/nvkuznetsova/pen/bKrqyy?editors=1010)
+-------
 
 
 #### Лабораторные JavaScript
