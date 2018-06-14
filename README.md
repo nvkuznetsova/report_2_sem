@@ -42,9 +42,9 @@
 ![screenshot of sample](https://github.com/nvkuznetsova/report_2_sem/blob/master/8%2C9/part2/p2.png)
 
 
-### Лабораторные JavaScript
-#### [Задания](https://github.com/nvkuznetsova/lab_2sem)<br>
+#### Лабораторные JavaScript
+##### [Задания](https://github.com/nvkuznetsova/lab_2sem)<br>
 <hr>
-### Лабораторные PHP
-#### [Задания](https://github.com/nvkuznetsova/php_labs)<br>
-#### [HerokuApp](https://shielded-reaches-18569.herokuapp.com)
+#### Лабораторные PHP
+##### [Задания](https://github.com/nvkuznetsova/php_labs)<br>
+##### [HerokuApp](https://shielded-reaches-18569.herokuapp.com)
