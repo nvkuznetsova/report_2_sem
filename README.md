@@ -43,7 +43,7 @@
 
 
 ### Лабораторные JavaScript
-#### [Задания](https://github.com/nvkuznetsova/lab_2sem)
+#### [Задания](https://github.com/nvkuznetsova/lab_2sem)<br>
 <hr>
 ### Лабораторные PHP
 #### [Задания](https://github.com/nvkuznetsova/php_labs)<br>
