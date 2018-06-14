@@ -32,7 +32,7 @@
 #### [Код](https://github.com/nvkuznetsova/lab_2sem/blob/master/js2/practice/qv.js)
 -----
 
-### 8, 9
+### 8, 9 Тренинг по ФРП
 #### [Part 1](https://github.com/nvkuznetsova/report_2_sem/tree/master/8%2C9/part1)<br>
 #### Результат<br>
 ![screenshot of sample](https://github.com/nvkuznetsova/report_2_sem/blob/master/8%2C9/part1/p1.png)
