@@ -7,6 +7,8 @@
 [Задание](https://codepen.io/nvkuznetsova/pen/MVVERy?editors=0011)
 
 ### 3 Проект на JSX «Liker»
+[Пример](https://nvkuznetsova.github.io/reactliker/)
+[Код](https://github.com/nvkuznetsova/reactliker)
 
 ### 4 Проект с нативными компонентами
 [Задание](https://codepen.io/nvkuznetsova/pen/gzGZJM)
