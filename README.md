@@ -8,7 +8,7 @@
 
 ### 1 Проект с оператором bind
 #### [Код](https://github.com/nvkuznetsova/report_2_sem/tree/master/1)<br>
-####[Пример](https://codepen.io/nvkuznetsova/pen/gKxWjY)
+#### [Пример](https://codepen.io/nvkuznetsova/pen/gKxWjY)
 -----
 ### 2  Последовательное выполнение асинхронных заданий в цикле
 #### [Задание](https://codepen.io/nvkuznetsova/pen/MVVERy?editors=0011)
