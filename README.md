@@ -27,4 +27,11 @@
 ### 7 Квайн на JS в одну строку с использованием метода toString функции
 [Код](https://github.com/nvkuznetsova/lab_2sem/blob/master/js2/practice/qv.js)
 
-### 8
+### 8, 9
+[Part 1](https://github.com/nvkuznetsova/report_2_sem/tree/master/8%2C9/part1)<br>
+#### Результат<br>
+![screenshot of sample](https://github.com/nvkuznetsova/report_2_sem/blob/master/8%2C9/part1/p1.png)
+-------
+[Part 2](https://github.com/nvkuznetsova/report_2_sem/tree/master/8%2C9/part2)<br>
+#### Результат<br>
+![screenshot of sample](https://github.com/nvkuznetsova/report_2_sem/blob/master/8%2C9/part2/p2.png)
