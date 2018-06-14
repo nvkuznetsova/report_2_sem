@@ -15,12 +15,12 @@
 
 ### 5 Плагин для Wordpress
 [Код](https://github.com/nvkuznetsova/report_2_sem/tree/master/5)<br>
-####Результат<br>
+#### Результат<br>
 ![screenshot of sample](https://github.com/nvkuznetsova/report_2_sem/blob/master/5.png)
 
 ### 6 Скрипт, извлекающий из WordPress заголовки постов
 [Код](https://github.com/nvkuznetsova/report_2_sem/tree/master/6)<br>
-####Результат<br>
+#### Результат<br>
 ![screenshot of sample](https://github.com/nvkuznetsova/report_2_sem/blob/master/6.png)
 
 
