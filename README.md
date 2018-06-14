@@ -15,9 +15,12 @@
 
 ### 5 Плагин для Wordpress
 [Код](https://github.com/nvkuznetsova/report_2_sem/tree/master/5)
+![screenshot of sample](https://github.com/nvkuznetsova/report_2_sem/blob/master/5.png)
 
 ### 6 Скрипт, извлекающий из WordPress заголовки постов
 [Код](https://github.com/nvkuznetsova/report_2_sem/tree/master/6)
+![screenshot of sample](https://github.com/nvkuznetsova/report_2_sem/blob/master/6.png)
+
 
 ### 7 Квайн на JS в одну строку с использованием метода toString функции
 [Код](https://github.com/nvkuznetsova/lab_2sem/blob/master/js2/practice/qv.js)
