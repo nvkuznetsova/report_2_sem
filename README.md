@@ -3,6 +3,9 @@
 ## 1 Корзина
 ### [Репозиторий](https://github.com/nvkuznetsova/cart)<br>
 ### [Git Pages example](https://nvkuznetsova.github.io/cart/)
+## 2 SCORM-пакет
+### [Скринкаст](https://drive.google.com/file/d/16vbYVNd4IAz99jyUXWQNxj1IN7sjDYJZ/view?usp=sharing)
+### [Moodlecloud]()
 -------
 ## Лабораторные работы
 
