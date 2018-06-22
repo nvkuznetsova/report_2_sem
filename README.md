@@ -5,7 +5,7 @@
 ### [Git Pages example](https://nvkuznetsova.github.io/cart/)
 ## 2 SCORM-пакет
 ### [Скринкаст](https://drive.google.com/file/d/16vbYVNd4IAz99jyUXWQNxj1IN7sjDYJZ/view?usp=sharing)
-### [Moodlecloud]()
+### [Moodlecloud](https://hobbit.moodlecloud.com/login/index.php) login: student, pass: qwerty123
 -------
 ## Лабораторные работы
 
